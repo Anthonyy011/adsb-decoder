@@ -1,0 +1,6 @@
+# gitignore for adsb decoder project
+
+__pycache__/
+*.pyc 
+venv/
+PROJECT_NOTES.md
