@@ -10,7 +10,7 @@ Following international standards, every ADS-B aircraft uses the same bit layout
 # Road Map
 ### Fixed Sample Messages
 - [x] Decode Downlink Format + ICAO
-- [ ] CRC
+- [x] CRC
 - [ ] Callsign
 - [ ] Altitude
 - [ ] Position (CPR)
